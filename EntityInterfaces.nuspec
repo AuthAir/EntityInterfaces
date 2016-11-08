@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EntityInterfaces</id>
+    <version>0.0.2</version>
+    <title>EntityInterfaces</title>
+    <authors>AuthAir, Inc</authors>
+    <owners>AuthAir, Inc</owners>
+    <description>Enables Created and Updated datetime tracking for Entity Framework Models</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>EntityInterfaces Datetime DateCreated DateUpdated DataContext</tags>
+  </metadata>
+</package>
